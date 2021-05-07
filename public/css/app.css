@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(/images/bg.jpg?2ddc7dad01abdbf137dbf81dac2de85b);
+  background-size: 2048px 3072px;
+}
+
+.text-home {
+  color: #ef8f6f;
+}
+
+.content {
+  min-height: 88vh;
+  flex-grow: 1;
+}
